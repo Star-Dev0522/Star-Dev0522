@@ -5,9 +5,9 @@
   </a>
 </p>
 
-## 💫 About Me:
+## About Me:
 
-I create high-quality software and genuinely enjoy turning complex ideas into reliable products. 💫
+I create high-quality software and genuinely enjoy turning complex ideas into reliable products. 
 
 I'm Raul Loys, a Senior Full Stack Engineer with 11+ years of experience building scalable web applications, backend services, and cloud-native solutions.
 
@@ -17,44 +17,26 @@ I enjoy designing RESTful APIs, building distributed systems, optimizing databas
 
 ## 🛠️ SKILLS:
 
-📌 **Languages:** Java, TypeScript, JavaScript, Python, SQL, HTML5, CSS3
+**Languages:** Java, TypeScript, JavaScript, Python, SQL, HTML5, CSS3
 
-📌 **Back-End:** Java 8/11/17, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Node.js, Express.js, RESTful APIs, GraphQL
+**Back-End:** Java 8/11/17, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Node.js, Express.js, RESTful APIs, GraphQL
 
-📌 **Front-End:** React, Next.js, Redux, TypeScript, JavaScript, Tailwind CSS, Material UI, Bootstrap
+**Front-End:** React, Next.js, Redux, TypeScript, JavaScript, Tailwind CSS, Material UI, Bootstrap
 
-📌 **Architecture:** Microservices, Distributed Systems, Event-Driven Architecture, Domain-Driven Design, API Gateway, Design Patterns
+**Architecture:** Microservices, Distributed Systems, Event-Driven Architecture, Domain-Driven Design, API Gateway, Design Patterns
 
-📌 **Messaging & Integration:** Apache Kafka, RabbitMQ, WebSockets, OAuth 2.0, JWT
+**Messaging & Integration:** Apache Kafka, RabbitMQ, WebSockets, OAuth 2.0, JWT
 
-📌 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Amazon RDS, Database Design, SQL Query Optimization
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Amazon RDS, Database Design, SQL Query Optimization
 
-📌 **Cloud & DevOps:** AWS (EC2, ECS, Lambda, S3, RDS, CloudWatch), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD, Linux, Nginx
+**Cloud & DevOps:** AWS (EC2, ECS, Lambda, S3, RDS, CloudWatch), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD, Linux, Nginx
 
-📌 **Security:** Spring Security, OAuth 2.0, JWT, Role-Based Access Control, API Security, OWASP Best Practices
+**Security:** Spring Security, OAuth 2.0, JWT, Role-Based Access Control, API Security, OWASP Best Practices
 
-📌 **Testing:** JUnit 5, Mockito, Testcontainers, Jest, React Testing Library, Cypress, Postman
+**Testing:** JUnit 5, Mockito, Testcontainers, Jest, React Testing Library, Cypress, Postman
 
-📌 **Development Tools:** Git, GitHub, Maven, Gradle, Swagger/OpenAPI, Jira
+**Development Tools:** Git, GitHub, Maven, Gradle, Swagger/OpenAPI, Jira
 
-
-## 🤝 WHEN WORKING WITH ME, YOU CAN EXPECT:
-
-✅ A strong commitment to engineering excellence
-
-✅ Clear and transparent communication
-
-✅ Ownership from design to production
-
-✅ Attention to detail and code quality
-
-✅ Reliable delivery and problem-solving
-
-✅ Collaboration and knowledge sharing
-
-If you're building something meaningful and need an engineer who enjoys solving challenging problems — let's connect! 😉
-
----
 
 ## 💻 Languages and Tools:
 
@@ -80,7 +62,7 @@ If you're building something meaningful and need an engineer who enjoys solving 
   <code><img height="25" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
 </p>
 
-## 💗 My Favorite Technologies:
+## My Favorite Technologies:
 
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=springboot&logoColor=white&color=3bac3a)
