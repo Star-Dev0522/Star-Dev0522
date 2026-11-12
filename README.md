@@ -1,89 +1,107 @@
+
 <p align="center">
-  <a href="https://github.com/hotcoding85"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer!;AI%20Engineer!;Blockchain%20Engineer!&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Star-DEV">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full-Stack+Engineer!;Java+%26+Spring+Boot+Engineer!;React+%26+TypeScript+Developer!;Cloud+%26+AWS+Engineer!&font=Pacifico&center=true&width=750&height=120&color=009999&vCenter=true&size=40">
+  </a>
 </p>
 
-💫 About Me:
+## 💫 About Me:
 
-I create high-quality software and I’m loving it 💫
+I create high-quality software and genuinely enjoy turning complex ideas into reliable products. 💫
 
-Seasoned Senior Software Engineer with a proven track record of delivering robust and innovative solutions. Strong foundation across both front-end and back-end development, along with growing expertise in AI/ML systems and data-driven applications.
+I'm Raul Loys, a Senior Full Stack Engineer with 11+ years of experience building scalable web applications, backend services, and cloud-native solutions.
 
-Experienced in building scalable platforms, integrating AI-powered features (LLMs, RAG pipelines, real-time inference), and delivering end-to-end solutions across web, cloud, and intelligent systems.
+My primary expertise is Java, Spring Boot, and microservices architecture, combined with modern frontend development using React, Next.js, and TypeScript.
 
-SKILLS:
+I enjoy designing RESTful APIs, building distributed systems, optimizing database performance, and developing secure applications on AWS. I'm comfortable owning features end-to-end, making architectural decisions, and collaborating with engineering teams to deliver production-ready software.
 
-📌 Languages & Frameworks: JavaScript, TypeScript, C#, .NET, ASP.NET, PHP, Python, Go, Rust, Ruby, Java
+## 🛠️ SKILLS:
 
-📌 Front-End: React, Vue, Angular, Next.js, Nuxt.js
+📌 **Languages:** Java, TypeScript, JavaScript, Python, SQL, HTML5, CSS3
 
-📌 Back-End: Node.js, Express, Nest.js, Laravel, Symfony, Flask, Django, FastAPI, Spring Boot
+📌 **Back-End:** Java 8/11/17, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Node.js, Express.js, RESTful APIs, GraphQL
 
-📌 AI / ML:
-LLMs, RAG pipelines, prompt engineering, vector databases, embeddings, real-time AI integrations, OpenAI APIs, LangChain, data processing & model integration
+📌 **Front-End:** React, Next.js, Redux, TypeScript, JavaScript, Tailwind CSS, Material UI, Bootstrap
 
-📌 Blockchain: Bitcoin, Ethereum, Solana, Solidity, Web3, Smart Contract
+📌 **Architecture:** Microservices, Distributed Systems, Event-Driven Architecture, Domain-Driven Design, API Gateway, Design Patterns
 
-📌 Databases: MySQL, PostgreSQL, MongoDB, DynamoDB
+📌 **Messaging & Integration:** Apache Kafka, RabbitMQ, WebSockets, OAuth 2.0, JWT
 
-📌 DevOps: Amazon Web Services (AWS), Docker, Kubernetes, Redis
+📌 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Amazon RDS, Database Design, SQL Query Optimization
 
-📌 Project Management Tools: Jira, Asana, Trello
+📌 **Cloud & DevOps:** AWS (EC2, ECS, Lambda, S3, RDS, CloudWatch), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CI/CD, Linux, Nginx
 
-📌 Testing: Unit Testing, End-to-End Testing
+📌 **Security:** Spring Security, OAuth 2.0, JWT, Role-Based Access Control, API Security, OWASP Best Practices
 
-WHEN WORKING WITH ME, YOU CAN EXPECT:
+📌 **Testing:** JUnit 5, Mockito, Testcontainers, Jest, React Testing Library, Cypress, Postman
 
-✅ A commitment to excellence
-✅ Clear communication
-✅ Timely delivery
-✅ Attention to detail
-✅ Strong collaboration and team mindset
-
-If that sounds good — let’s talk 😉
+📌 **Development Tools:** Git, GitHub, Maven, Gradle, Swagger/OpenAPI, Jira
 
 
-**Languages and Tools:**
+## 🤝 WHEN WORKING WITH ME, YOU CAN EXPECT:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+✅ A strong commitment to engineering excellence
 
-💗 **My Favorites Techs:**
+✅ Clear and transparent communication
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+✅ Ownership from design to production
+
+✅ Attention to detail and code quality
+
+✅ Reliable delivery and problem-solving
+
+✅ Collaboration and knowledge sharing
+
+If you're building something meaningful and need an engineer who enjoys solving challenging problems — let's connect! 😉
 
 ---
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Languages and Tools:
+
+<p>
+  <code><img height="25" src="https://skillicons.dev/icons?i=java" alt="Java"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=spring" alt="Spring"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=react" alt="React"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=ts" alt="TypeScript"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=js" alt="JavaScript"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=python" alt="Python"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=redis" alt="Redis"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=aws" alt="AWS"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=docker" alt="Docker"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=terraform" alt="Terraform"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"></code>
+  <code><img height="25" src="https://skillicons.dev/icons?i=git" alt="Git"></code>
+</p>
+
+## 💗 My Favorite Technologies:
+
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=openjdk&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=springboot&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=microgenetics&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Messaging-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=3bac3a)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Star-DEV&label=Profile%20Views&color=009999&style=flat" alt="Profile Views">
+</p>
+
+<p align="center">
+  <i>Engineering scalable solutions, one commit at a time.</i>
+</p>
